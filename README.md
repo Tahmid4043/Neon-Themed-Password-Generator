@@ -41,4 +41,4 @@ A sleek, neon-themed password generator that creates strong, random passwords ba
 ## ✅ Status
 
 Project Completed ✔️  
-You can view the live version here: [Live Demo](https://tahmid4043.github.io/Neon-Themed-Password-Generator/)
+You can view the live version here:https://neonthemedpasswordgenerator.netlify.app/
