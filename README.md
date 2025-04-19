@@ -16,18 +16,7 @@ A sleek, neon-themed password generator that creates strong, random passwords ba
 - Copy password to clipboard
 - Fully responsive neon UI design
 
-## 🚀 How to Use / Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Tahmid4043/Neon-Themed-Password-Generator.git
-   ```
-
-2. Open the folder and run the `index.html` file in your browser.
-
-✅ **That’s it!** No installation or server setup needed.
-
-## 📌 Steps to Build (For Beginners)
+## 📌 Steps to Build
 
 - Started with basic HTML structure for layout
 - Styled everything using modern neon-inspired CSS
