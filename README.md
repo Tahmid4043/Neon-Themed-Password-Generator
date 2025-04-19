@@ -19,6 +19,3 @@ This web-based app lets users generate strong, customizable passwords. It includ
 ---
 
 ## 📸 Screenshot (Optional)
-Add a preview image in an `assets/` folder and use:
-```md
-![preview](assets/screenshot.png)
